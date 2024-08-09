@@ -1,7 +1,7 @@
 ### Hi, my name is Thiago Magalhaes and I'm a DevOps engineer. 🤓👨🏾‍💻
 
 <!--
-**marublaize/marublaize** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**thiagodolabsdevops/thiagodolabsdevops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <a href="https://github.com/marublaize">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=marublaize&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marublaize&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/thiagodolabsdevops">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=thiagodolabsdevops&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagodolabsdevops&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
